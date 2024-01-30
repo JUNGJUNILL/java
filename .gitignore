@@ -28,6 +28,8 @@ hs_err_pid
 replay_pid
 
 .project
+.metadata
+.settings/
 
 # End of httpswww.toptal.comdevelopersgitignoreapijava
 
