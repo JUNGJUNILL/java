@@ -1,0 +1,9 @@
+package helloJava.kbrain;
+
+public class P001_Logic {
+	
+	public static void main(String[] args) {
+		System.out.println("test");
+	}
+
+}
