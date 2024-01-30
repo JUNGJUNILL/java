@@ -1,4 +1,4 @@
-package helloJava.kbrain;
+package helloJava.kbrain.ksaedu;
 
 public class P002_Logic {
 

@@ -1,4 +1,4 @@
-package helloJava.kbrain;
+package helloJava.kbrain.ksaedu;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -116,7 +116,6 @@ public class P001_Logic {
     		System.out.println(map.toString());
     	}
 		
-		System.out.println("test");
 		
 	}
 
