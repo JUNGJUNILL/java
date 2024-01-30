@@ -30,3 +30,5 @@ replay_pid
 .project
 
 # End of httpswww.toptal.comdevelopersgitignoreapijava
+
+bin/*.class
