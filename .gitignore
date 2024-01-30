@@ -31,4 +31,4 @@ replay_pid
 
 # End of httpswww.toptal.comdevelopersgitignoreapijava
 
-bin/*.class
+/bin/*.class
