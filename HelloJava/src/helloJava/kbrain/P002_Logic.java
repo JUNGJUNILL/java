@@ -8,6 +8,7 @@ public class P002_Logic {
         System.out.println("test logic test");
         System.out.println("test logic test");
         System.out.println("test logic test");
+        System.out.println("test logic test");
     }
     
 }
