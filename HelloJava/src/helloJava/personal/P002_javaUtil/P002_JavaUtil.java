@@ -1,4 +1,4 @@
-package helloJava.personal.P003_javaUtil;
+package helloJava.personal.P002_javaUtil;
 import java.util.StringTokenizer;
 
 //문자열 함수들

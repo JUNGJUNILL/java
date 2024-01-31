@@ -1,4 +1,4 @@
-package helloJava.personal.P003_javaUtil;
+package helloJava.personal.P002_javaUtil;
 
 //쉬프트 연산자
 public class P003_JavaUtil {

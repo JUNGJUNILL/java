@@ -1,4 +1,4 @@
-package helloJava.personal.P003_javaUtil;
+package helloJava.personal.P002_javaUtil;
 
 //Math 메서드
 public class P001_JavaUtil {
