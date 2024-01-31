@@ -1,4 +1,4 @@
-package helloJava.personal.notepad;
+package helloJava.personal.P000_notepad;
 
 public class Practice {
         
