@@ -10,6 +10,8 @@ public class P011_Algorithm {
 		
 		int minIndex=0; 
 		for(int i=0; i<array.length; i++){
+			// > 작은값 없애기
+			// < 큰값 없애기
 			if(array[minIndex] > array[i]){
 				minIndex=i; 
 				
